@@ -1,0 +1,1 @@
+{"author":"","dependencies":{"@napi-rs/canvas":"^1.2.1"},"description":"Newspaper front page summing up 26 November 2026 world news","keywords":[],"license":"MIT","main":"main.ts","name":"news-image-20261126","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
